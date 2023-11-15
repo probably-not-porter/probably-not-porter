@@ -1,15 +1,4 @@
-
-```
-  _____           _              _      _ _     _           
- |  __ \         | |            | |    (_) |   | |          
- | |__) |__  _ __| |_ ___ _ __  | |     _| |__ | |__  _   _ 
- |  ___/ _ \| '__| __/ _ \ '__| | |    | | '_ \| '_ \| | | |
- | |  | (_) | |  | ||  __/ |    | |____| | |_) | |_) | |_| |
- |_|   \___/|_|   \__\___|_|    |______|_|_.__/|_.__/ \__, |
-                                                       __/ |
-                                                      |___/ 
-```
-
+# About Me
 ### Hobbies
 I make tools for data and organization. I like building websites for niche ideas and sharing them with others.
 
