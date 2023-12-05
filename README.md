@@ -1,4 +1,5 @@
 # About Me
+[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/probably_not_porter)
 ### Hobbies
 I make tools for data and organization. I like building websites for niche ideas and sharing them with others.
 
